@@ -1,4 +1,4 @@
 
 # MundoTecSystem
-Sistema de controle e falta e marcação de presença de estágiarios. 
+Sistema de controle, falta e marcação de presença de estágiarios. 
 
